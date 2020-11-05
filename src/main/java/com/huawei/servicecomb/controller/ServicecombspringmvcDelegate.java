@@ -9,6 +9,6 @@ public class ServicecombspringmvcDelegate {
     public String helloworld(String name){
 
         // Do Some Magic Here!
-        return “Welcome, ” + name;
+        return "Welcome, " + name;
     }
 }
